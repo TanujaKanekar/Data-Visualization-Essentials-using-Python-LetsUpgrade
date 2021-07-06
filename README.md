@@ -1,4 +1,4 @@
-# Data-Visualization-Essentials-using-Python-LetsUpgrade
+# Data Visualization Essentials using Python LetsUpgrade
 
 History of Data Visualization:
 
